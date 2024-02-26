@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Apple-clone/static/css/main.e6c13ad2.css",
+    "main.js": "/Apple-clone/static/js/main.920312c3.js",
+    "static/js/453.9b0f62f4.chunk.js": "/Apple-clone/static/js/453.9b0f62f4.chunk.js",
+    "index.html": "/Apple-clone/index.html",
+    "main.e6c13ad2.css.map": "/Apple-clone/static/css/main.e6c13ad2.css.map",
+    "main.920312c3.js.map": "/Apple-clone/static/js/main.920312c3.js.map",
+    "453.9b0f62f4.chunk.js.map": "/Apple-clone/static/js/453.9b0f62f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.920312c3.js"
+  ]
+}
